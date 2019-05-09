@@ -34,21 +34,23 @@ again and then type:
 +
 ```
 
-and you get your answer :-]
+and you get your answer.
 
 Here are the operands the `RPN` program uses:
 
-+ + for addition
-+ - for subtraction
-+ * for multiplication
-+ / for division
+```
++ for addition
+- for subtraction
+* for multiplication
+/ for division
+```
 
 Remember to type the operands first and the operand second.  That is what Reverse
 Polish Notation is all about.
 
-More info on Reverse Polish Notation here:
+More info on Reverse Polish notation here:
 
-[Wikipedia](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+[Wikipedia entry for Reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 
 # A stack based calculator
 
@@ -88,7 +90,7 @@ If you are on a Windows machine you might want to copy the `rpn.bat` file
 to a directory in your `PATH` environment variable such
 as `C:\Windows`.  You may need administrator priviledges to do this.
 
-Once `rpn.bat` is in a directort on your `PATH` you should be able
+Once `rpn.bat` is in a directory on your `PATH` you should be able
 to run it from the  Windows search box by just typing `rpn`.  On
 Windows 10 select the option:
 
@@ -99,12 +101,12 @@ Run Command
 
 # Why not use the Windows Calculator?
 
-If you have a Windows calculator installed use that by all means.  It will have
+If you have a Windows calculator installed then use that by all means.  It will have
 all the bells and whistles you need.
 
-For me I just wanted something to add, subtract, multiple and divide numbers.
+For me I just wanted something to add, subtract, multiply and divide numbers.
 
-Also I like coding and for me that is reason enough :-]
+Also, I like coding and, for me, that is reason enough :-]
 
 -------------------------------------
 
