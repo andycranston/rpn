@@ -2,7 +2,7 @@
 #
 # @(!--#) @(#) rpncalc.py, version 001, 05-september-2018
 #
-# simple reverse polish notation calculator
+# a simple reverse polish notation calculator
 #
 
 ################################################################################################
