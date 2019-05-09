@@ -36,7 +36,7 @@ again and then type:
 
 and you get your answer.
 
-Here are the operands the `RPN` program uses:
+Here are the operatorss the `RPN` program uses:
 
 ```
 + for addition
@@ -45,7 +45,7 @@ Here are the operands the `RPN` program uses:
 / for division
 ```
 
-Remember to type the operands first and the operand second.  That is what Reverse
+Remember to type the operands first and the operator second.  That is what Reverse
 Polish Notation is all about.
 
 More info on Reverse Polish notation here:
@@ -55,11 +55,11 @@ More info on Reverse Polish notation here:
 # A stack based calculator
 
 The `RPN` program is stack based.  When you type a number it is placed on stack.
-When you type an operand like `+` the two items on top of the stack are removed from
+When you type an operator like `+` the two items on top of the stack are removed from
 the stack, added together and the result placed back on the stack.  The result is
 also printed.
 
-If there are not enough numbers on the stack and you type an operand you
+If there are not enough numbers on the stack and you type an operator you
 will get an error message similar to:
 
 ```
@@ -81,7 +81,7 @@ on the top of the stack.
 Typing `dropall` will remove all the numbers from the stack.  
 
 Typing `..` (two period/full stop characters) will print all the numbers currently
-on stack.  The most recently added number (i.e. the number on top of the stack) is
+on the stack.  The most recently added number (i.e. the number on top of the stack) is
 printed first.
 
 # The rpn.bat file
@@ -101,12 +101,12 @@ Run Command
 
 # Why not use the Windows Calculator?
 
-If you have a Windows calculator installed then use that by all means.  It will have
-all the bells and whistles you need.
+If you have a Windows calculator installed then use that - it will have
+all the features you need.
 
-For me I just wanted something to add, subtract, multiply and divide numbers.
+However, I just wanted something to add, subtract, multiply and divide numbers.
 
-Also, I like coding and, for me, that is reason enough :-]
+Also, I like coding and, for me, that was reason enough :-]
 
 -------------------------------------
 
