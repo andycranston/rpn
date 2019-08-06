@@ -36,7 +36,7 @@ again and then type:
 
 and you get your answer.
 
-Here are the operatorss the `RPN` program uses:
+Here are the operators the `RPN` program uses:
 
 ```
 + for addition
